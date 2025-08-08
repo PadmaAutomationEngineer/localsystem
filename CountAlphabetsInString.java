@@ -3,6 +3,7 @@ package string_Programs;
 public class CountAlphabetsInString {
 	public static void main(String[] args) {
 	String s="aabbccc";
+	//output:a2b2c3
 	for(int i=0;i<s.length();i++)
 	{
 		int count=1;
